@@ -14,7 +14,7 @@ Lead and opportunity analysis of a CRM dataset using SQL, Excel, Power BI, and T
 - Tableau → Visual analytics & dashboard storytelling
 
 ## 📂 Dataset Description
-- The dataset follows a relational CRM data model:
+The dataset follows a relational CRM data model:
 - User – Sales representatives and system users
 - Lead – Lead source, status, and conversion details
 - Account – Customer and account-level information
