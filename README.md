@@ -2,23 +2,23 @@
 Lead and opportunity analysis of a CRM dataset using SQL, Excel, Power BI, and Tableau with interactive dashboards and actionable business insights.
 
 ## 📌 Project Overview
--An end-to-end CRM analytics project focused on analyzing sales funnel performance.
--Performed data cleaning, transformation, analysis, and visualization.
--Tools used: Excel, Power BI, Tableau, MySQL (SQL).
--Focused on analyzing Leads, Opportunities, Conversions, Expected Revenue, and Forecasted Revenue.
+- An end-to-end CRM analytics project focused on analyzing sales funnel performance.
+- Performed data cleaning, transformation, analysis, and visualization.
+- Tools used: Excel, Power BI, Tableau, MySQL (SQL).
+- Focused on analyzing Leads, Opportunities, Conversions, Expected Revenue, and Forecasted Revenue.
 
 ## 🧰 Tools & Technologies
--SQL (MySQL) → Query-based analysis, joins, aggregations & data validation
--Power BI → Data modeling, DAX measures & interactive dashboards
--Excel → Data cleaning & preprocessing
--Tableau → Visual analytics & dashboard storytelling
+- SQL (MySQL) → Query-based analysis, joins, aggregations & data validation
+- Power BI → Data modeling, DAX measures & interactive dashboards
+- Excel → Data cleaning & preprocessing
+- Tableau → Visual analytics & dashboard storytelling
 
 ## 📂 Dataset Description
-The dataset follows a relational CRM data model:
-User – Sales representatives and system users
-Lead – Lead source, status, and conversion details
-Account – Customer and account-level information
-Opportunity – Opportunity value, stage, and close status
+- The dataset follows a relational CRM data model:
+- User – Sales representatives and system users
+- Lead – Lead source, status, and conversion details
+- Account – Customer and account-level information
+- Opportunity – Opportunity value, stage, and close status
 Opportunity Product – Product-wise deal and revenue breakdown
 
 ## 📊 Dashboards & Analysis
