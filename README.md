@@ -1,4 +1,4 @@
-# 📊 CRM Analytics Dashboard
+# 📊 CRM Analytics
 Lead and opportunity analysis of a CRM dataset using SQL, Excel, Power BI, and Tableau with interactive dashboards and actionable business insights.
 
 ## 📌 Project Overview
