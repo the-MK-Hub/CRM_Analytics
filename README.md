@@ -40,8 +40,6 @@ Lead and opportunity analysis of a CRM dataset using SQL, Excel, Power BI, and T
 - Converted accounts
 - Conversion Rate
 - Expected amount by converted leads
-- Total Opportunities
-- Active Opportunities
 - Expected Amount
 - Active
 - Win Rate
